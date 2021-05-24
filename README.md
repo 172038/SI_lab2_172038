@@ -4,4 +4,6 @@
 
 ### Control Flow Graph
 
+![This is an image.](https://github.com/172038/SI_lab2_172038/blob/main/numeracija.png)
 ![This is an image.](https://github.com/172038/SI_lab2_172038/blob/main/cnf.png)
+
